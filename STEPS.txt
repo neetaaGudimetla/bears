@@ -1,0 +1,19 @@
+https://github.com/neetaaGudimetla/bears.git
+
+
+E:\AI-Related>git clone https://github.com/neetaaGudimetla/bears.git
+Cloning into 'bears'...
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (5/5), 5.47 KiB | 98.00 KiB/s, done.
+
+E:\AI-Related>
+
+
+====================================================================================
+git add .
+git commit -m "Initial Project"
+git push origin main
+====================================================================================
